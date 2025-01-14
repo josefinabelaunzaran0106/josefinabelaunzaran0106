@@ -39,7 +39,8 @@
 ---
 
 ### 🎥 Proyecto en acción
-![Demo del Proyecto](https://josefinabelaunzaran0106.github.io/Reentrega-Interfaces-Grupo18/TP4/)
+[🌐 Demo del Proyecto](https://josefinabelaunzaran0106.github.io/Reentrega-Interfaces-Grupo18/TP4/)
+
 
 ---
 
