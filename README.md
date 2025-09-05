@@ -47,6 +47,7 @@
 ### 🌍 Conéctate conmigo
 📧 **Email:** josefinabelaunzaran0106@gmail.com  
 🔗 **LinkedIn:** [Josefina Belaunzaran](https://linkedin.com/in/josefina-belaunzaran)  
+🌐 **Portfolio:** [Mi Portfolio](https://josefinabelaunzaran0106.github.io/portfolio-josefina-belaunzaran/)  
 
 
 ---
