@@ -3,7 +3,7 @@
 
 
 💻 **Desarrolladora de software** apasionada por crear soluciones innovadoras y eficientes.  
-🎓 Futura Egresada de la **Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas (TUDAI)** en la **UNICEN**.  
+🎓 Egresada de la **Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas (TUDAI)** en la **UNICEN**.  
 🌱 Actualmente profundizando en desarrollo web, microservicios y tecnologías en la nube.
 
 ---
