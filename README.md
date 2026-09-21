@@ -20,12 +20,6 @@
 
 ---
 
-### 📈 Mis estadísticas en GitHub
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=josefinabelaunzaran0106&layout=compact&theme=dracula)
-![Estadísticas generales](https://github-readme-stats.vercel.app/api?username=josefinabelaunzaran0106&show_icons=true&theme=radical)
-
----
-
 ### 🌟 Proyectos destacados
 - [**Proyecto Vinoteca**](https://github.com/josefinabelaunzaran0106/TPE-WEB2)  
   Vinoteca. Catalogo informativo de vinos. Proyecto realizado con php (MVC).
