@@ -1,18 +1,18 @@
-# 👋 Hola, soy Josefina Belaunzaran
+# Hola, soy Josefina Belaunzaran
 
-💻 **Desarrolladora Full Stack** enfocada en desarrollo web y construcción de soluciones digitales.
+**Desarrolladora Full Stack** enfocada en desarrollo web y construcción de soluciones digitales.
 
-🎓 **Técnica Universitaria en Desarrollo de Aplicaciones Informáticas (TUDAI)** — UNICEN.
+**Técnica Universitaria en Desarrollo de Aplicaciones Informáticas (TUDAI)** — UNICEN.
 
-🏛️ Actualmente me desempeño como **desarrolladora en la UNICEN**, participando en el desarrollo y mantenimiento de sitios web institucionales.
+Actualmente me desempeño como **desarrolladora en la UNICEN**, participando en el desarrollo y mantenimiento de sitios web institucionales.
 
-🌱 Me interesa seguir creciendo en **desarrollo web, arquitectura de software, microservicios y herramientas de infraestructura**, incorporando buenas prácticas y nuevas tecnologías a mis proyectos.
+Me interesa seguir creciendo en **desarrollo web, arquitectura de software, microservicios y herramientas de infraestructura**, incorporando buenas prácticas y nuevas tecnologías a mis proyectos.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## Tecnologías y herramientas
 
-### 💻 Lenguajes y desarrollo web
+### Lenguajes y desarrollo web
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat\&logo=php\&logoColor=white)
@@ -20,7 +20,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
 
-### ⚙️ Frameworks y herramientas
+### Frameworks y herramientas
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat\&logo=laravel\&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat\&logo=react\&logoColor=black)
@@ -29,16 +29,16 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
 
-### 🗄️ Bases de datos
+### Bases de datos
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
-### 🏥 Sistema de gestión de historias clínicas — CMDV
+### Sistema de gestión de historias clínicas — CMDV
 
 Aplicación web desarrollada para la gestión de historias clínicas de un centro médico.
 
@@ -50,7 +50,7 @@ El proyecto implementa una arquitectura **MVC** y cuenta con funcionalidades par
 
 ---
 
-### 🛒 Aplicación de carrito de compras
+### Aplicación de carrito de compras
 
 Aplicación web desarrollada con **Angular**, enfocada en la gestión de productos y carrito de compras.
 
@@ -60,7 +60,7 @@ Aplicación web desarrollada con **Angular**, enfocada en la gestión de product
 
 ---
 
-### 🍷 Vinoteca
+### Vinoteca
 
 Aplicación web desarrollada bajo el patrón **MVC**, orientada a la gestión y consulta de un catálogo de vinos.
 
@@ -70,7 +70,7 @@ Aplicación web desarrollada bajo el patrón **MVC**, orientada a la gestión y 
 
 ---
 
-### 🛴 Microservicios de monopatines
+### Microservicios de monopatines
 
 Backend desarrollado utilizando una arquitectura de **microservicios**, orientado a la gestión de monopatines y paradas.
 
@@ -80,7 +80,7 @@ Backend desarrollado utilizando una arquitectura de **microservicios**, orientad
 
 ---
 
-### 👦 Más amigos, más diversión
+### Más amigos, más diversión
 
 Sitio web infantil desarrollado como proyecto de interfaces, con diseño responsive y diferentes interacciones y efectos de scroll.
 
@@ -92,7 +92,7 @@ Sitio web infantil desarrollado como proyecto de interfaces, con diseño respons
 
 ---
 
-### 🌐 Desarrollo de sitios institucionales
+### Desarrollo de sitios institucionales
 
 Experiencia en el desarrollo y mantenimiento de **sitios web institucionales con WordPress**, trabajando con temas personalizados, tipos de contenido, funcionalidades propias y administración de contenidos.
 
@@ -100,24 +100,24 @@ Experiencia en el desarrollo y mantenimiento de **sitios web institucionales con
 
 ---
 
-## 📚 Experiencia y formación
+## Experiencia y formación
 
-🎓 **Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas (TUDAI)**
+**Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas (TUDAI)**
 Universidad Nacional del Centro de la Provincia de Buenos Aires — UNICEN
 
-💼 **Desarrolladora — UNICEN**
+**Desarrolladora — UNICEN**
 Desarrollo y mantenimiento de sitios web institucionales y funcionalidades personalizadas.
 
 ---
 
-## 📫 Contacto
+## Contacto
 
-📧 **Email:** [josefinabelaunzaran0106@gmail.com](mailto:josefinabelaunzaran0106@gmail.com)
+ **Email:** [josefinabelaunzaran0106@gmail.com](mailto:josefinabelaunzaran0106@gmail.com)
 
-🔗 **LinkedIn:** [Josefina Belaunzaran](https://linkedin.com/in/josefina-belaunzaran)
+ **LinkedIn:** [Josefina Belaunzaran](https://linkedin.com/in/josefina-belaunzaran)
 
-🌐 **Portfolio:** [Mi portfolio](https://josefinabelaunzaran0106.github.io/portfolio-josefina-belaunzaran/)
+ **Portfolio:** [Mi portfolio](https://josefinabelaunzaran0106.github.io/portfolio-josefina-belaunzaran/)
 
 ---
 
-> 💡 Siempre abierta a nuevos desafíos, proyectos y oportunidades para seguir creciendo como desarrolladora.
+>  Siempre abierta a nuevos desafíos, proyectos y oportunidades para seguir creciendo como desarrolladora.
